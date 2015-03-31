@@ -6,3 +6,6 @@ def Par():
 		return("seu numero e impar!!!")
 
 print(Par())
+
+# Nota: 1.0
+# Comentario: 0

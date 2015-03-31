@@ -15,3 +15,6 @@ for j in range(i):
     soma += l[j]
     media = soma/i
 print ('sua media eh {0}'.format(media))
+
+#Nota: 1.0
+#Comentario: Bom uso do .format()

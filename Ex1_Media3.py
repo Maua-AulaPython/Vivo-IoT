@@ -7,3 +7,6 @@ def media():
 
 
 print(media())
+
+# Nota: 1.0
+# Comentario: boa organizacao
